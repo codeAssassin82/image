@@ -1,0 +1,13 @@
+
+html body {
+  background-image: url("http://vbu.ac.in/wp-content/uploads/2015/08/Search.jpg");
+  no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+.form-control {
+  background-color: lightblue;
+
+}
